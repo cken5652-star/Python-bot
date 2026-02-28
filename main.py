@@ -7,7 +7,7 @@ from threading import Thread
 
 # ====== НАСТРОЙКИ ======
 BOT_TOKEN = "8386106210:AAGmidWuDlq3vk_ziH4yTAScMzNGDN003vs"
-GEMINI_API_KEY = "AIzaSyAOvzU4yI6PFDZd2q7QXtLgN3acUv7Jud0"
+GEMINI_API_KEY ="
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
